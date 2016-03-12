@@ -1,0 +1,9 @@
+c:\users\nakanishi\documents\visual studio 2013\Projects\ApolloniusCirclesDraw\ApolloniusCirclesDraw\bin\Debug\ApolloniusCirclesDraw.exe.config
+c:\users\nakanishi\documents\visual studio 2013\Projects\ApolloniusCirclesDraw\ApolloniusCirclesDraw\bin\Debug\ApolloniusCirclesDraw.exe
+c:\users\nakanishi\documents\visual studio 2013\Projects\ApolloniusCirclesDraw\ApolloniusCirclesDraw\bin\Debug\ApolloniusCirclesDraw.pdb
+c:\users\nakanishi\documents\visual studio 2013\Projects\ApolloniusCirclesDraw\ApolloniusCirclesDraw\obj\Debug\ApolloniusCirclesDraw.csprojResolveAssemblyReference.cache
+c:\users\nakanishi\documents\visual studio 2013\Projects\ApolloniusCirclesDraw\ApolloniusCirclesDraw\obj\Debug\ApolloniusCirclesDraw.Form1.resources
+c:\users\nakanishi\documents\visual studio 2013\Projects\ApolloniusCirclesDraw\ApolloniusCirclesDraw\obj\Debug\ApolloniusCirclesDraw.Properties.Resources.resources
+c:\users\nakanishi\documents\visual studio 2013\Projects\ApolloniusCirclesDraw\ApolloniusCirclesDraw\obj\Debug\ApolloniusCirclesDraw.csproj.GenerateResource.Cache
+c:\users\nakanishi\documents\visual studio 2013\Projects\ApolloniusCirclesDraw\ApolloniusCirclesDraw\obj\Debug\ApolloniusCirclesDraw.exe
+c:\users\nakanishi\documents\visual studio 2013\Projects\ApolloniusCirclesDraw\ApolloniusCirclesDraw\obj\Debug\ApolloniusCirclesDraw.pdb
